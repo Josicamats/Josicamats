@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building a scalable ecommerce platform<br><br>👯 I’m looking to collaborate on: Full-stack JavaScript projects (React, Node.js)<br><br>🤝 I’m looking for help with: Advanced UI/UX design and best practices for high-traffic apps<br><br>🌱 I’m currently learning: Web design, frontend development for better UI/UX, and TypeScript<br><br>💬 Ask me about: JavaScript, Node.js, React, databases, and UiPath automation<br><br>⚡ Fun fact: When I’m not coding, I’m exploring new topics to broaden my skills!
+🔭 I’m currently working on: Building a scalable ecommerce platform<br><br>👯 I’m looking to collaborate on: Full-stack JavaScript projects (React, Node.js)<br><br>🤝 I’m looking for help with: Advanced UI/UX design and best practices for high-traffic apps<br><br>🌱 I’m currently learning: Web design, frontend development for better UI/UX, and TypeScript<br><br>💬 Ask me about: JavaScript, Node.js, React, Databases, and UiPath automation<br><br>⚡ Fun fact: When I’m not coding, I’m exploring new topics to broaden my skills!
 
 
 ## 🌐 Socials:
